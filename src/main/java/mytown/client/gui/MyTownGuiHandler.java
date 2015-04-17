@@ -25,7 +25,7 @@ public class MyTownGuiHandler implements IGuiHandler {
     @Override
     public Object getClientGuiElement(int ID, EntityPlayer player, World world, int x, int y, int z) {
         if(ID == 0) {
-            return new GuiTown();
+            return new GuiTown(player);
         }
         return null;
     }
