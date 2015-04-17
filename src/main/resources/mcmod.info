@@ -1,0 +1,16 @@
+[
+{
+  "modid": "MyTown2-Client",
+  "name": "MyTown2-Client",
+  "description": "A client-only mod that adds better visuals to MyTown2.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["AfterWind"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
